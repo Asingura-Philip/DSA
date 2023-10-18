@@ -25,7 +25,7 @@ def martyr_group(name):
 
 
 kizito_group = martyr_group("Kizito")
-print("Group of Kizito:", kizito_group)  # Output: Group of Kizito: Catholic
+print("Group of Kizito:", kizito_group) 
 
 
 def is_martyr_present(name):
